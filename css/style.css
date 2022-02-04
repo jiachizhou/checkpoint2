@@ -1,0 +1,41 @@
+img{
+    margin: 24px;
+    width: 400px;
+    padding: 0px;
+    border: 1px #e0e0e0;
+    border-radius: 5px;
+    margin: 50px 50px 15px 50px;
+    box-shadow: 0px 2px 10px 2px #d5d5d8;
+}
+
+.mockup{
+    width: 150px;
+    margin: 10px;
+}
+
+.banner{
+    margin: 10px;
+    box-shadow: none;
+    width: 1000px;
+    background: #f3f3f3;
+}
+
+img:hover{
+    filter:brightness(95%);
+    border: marker;
+}
+
+
+a:visited{
+    color: black;
+}
+
+.active{
+    background: #270fff;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.active a{
+    color: #ffffff;
+}
